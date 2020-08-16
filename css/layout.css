@@ -1020,6 +1020,6 @@ footer .social-links li:first-child { margin-left: 0; }
  #loading-image {
    position: fixed;
    top: 35%;
-   left: 35%;
+   left: 42%;
    z-index: 100;
  }
