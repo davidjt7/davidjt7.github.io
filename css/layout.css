@@ -654,7 +654,7 @@ call-to-action .button {
    padding-bottom: 66px;
 }
 #testimonials h1 {
-   font: 18px/24px 'opensans-bold', sans-serif;   
+   font: 18px/24px 'librebaskerville-regular', sans-serif;   
    text-transform: uppercase;
    letter-spacing: 3px;
    color: #fff;
@@ -681,7 +681,7 @@ call-to-action .button {
 }
 #testimonials blockquote:before { content: none; }
 #testimonials blockquote p {
-   font-family: 'librebaskerville-italic', serif;
+   font-family: 'librebaskerville-regular', serif;
    padding: 0;
    font-size: 24px;
    line-height: 48px;
