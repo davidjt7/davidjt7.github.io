@@ -1,7 +1,0 @@
-Hi {user},
-
-I've primarily worked with MERN stack apps deployed on AWS.
-You can find a brief description of what I've worked on under the experience section of my LinkedIn profile -
-https://www.linkedin.com/in/djtin/
-
-Let me know if you need more details.
